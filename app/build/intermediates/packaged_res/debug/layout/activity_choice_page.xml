@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CADCF4"
+    tools:context=".ChoicePage">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/bg2_2" />
+
+    <ImageButton
+        android:id="@+id/game_1"
+        android:layout_width="170dp"
+        android:layout_height="139dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="214dp"
+        android:layout_marginBottom="130dp"
+        app:srcCompat="@drawable/one1"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/game_2"
+        android:layout_width="170dp"
+        android:layout_height="139dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="130dp"
+        app:srcCompat="@drawable/two"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</RelativeLayout>

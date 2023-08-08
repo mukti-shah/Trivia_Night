@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_argentina.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\argentina.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_apple.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ukraine.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\ukraine.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_netherlands.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\netherlands.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_choice_page.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\layout\\activity_choice_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_html5.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\html5.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uber.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\uber.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_github.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_one1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\one1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_two.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\two.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\font_abril_fatface.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\font\\abril_fatface.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_starbucks.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\starbucks.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\font_amarante.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\font\\amarante.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_japan.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\japan.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\layout_game_over.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\layout\\game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_audi.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\audi.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_chanel.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\chanel.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_one.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_nike.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\nike.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_scotland.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\scotland.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_netflix.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\netflix.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_home1.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\home1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_play1.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\play1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\font_aleo_bold.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\font\\aleo_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_triv_night_1.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\triv_night_1.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_select_game.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\layout\\activity_select_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_swiggy.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\swiggy.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mercedes.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\mercedes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_germany.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\germany.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\layout_start_game.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\layout\\start_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_usa.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\usa.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_uganda.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\uganda.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\font_acme.ttf.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\font\\acme.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_china.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\china.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_undo.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\undo.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bangladesh.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\bangladesh.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg2.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_pepsi.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\pepsi.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_star.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_france.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\france.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_russia.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\russia.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_disney.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\disney.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\font_train_one.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\font\\train_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_brazil.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\brazil.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_reload.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\reload.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg2_2.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\bg2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_gameover.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\gameover.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_redbull1.jpg.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\redbull1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ireland.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\ireland.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_adobe.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\adobe.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_stopwatch.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\stopwatch.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\font_bungee_outline.ttf.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\font\\bungee_outline.ttf"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_gucci.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\gucci.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_india.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\india.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_canada.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\canada.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_facebook.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_bg1.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\MyApplication_1\\app\\src\\main\\res\\drawable-v24\\bg1.png"
+    }
+]
